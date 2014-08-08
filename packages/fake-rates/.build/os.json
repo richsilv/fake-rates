@@ -1,0 +1,30 @@
+{
+  "format": "unipackage-slice-pre1",
+  "packageVariables": [
+    {
+      "name": "FakeRates",
+      "export": true
+    },
+    {
+      "name": "seedPrices"
+    }
+  ],
+  "uses": [
+    {
+      "package": "meteor"
+    },
+    {
+      "package": "random"
+    }
+  ],
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "os/packages/fake-rates.js",
+      "length": 31914,
+      "offset": 0,
+      "servePath": "/packages/fake-rates.js",
+      "sourceMap": "os/packages/fake-rates.js.map"
+    }
+  ]
+}

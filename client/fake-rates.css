@@ -1,0 +1,8 @@
+/* CSS declarations go here */
+
+pre.tickBox {
+	height: 40vh;
+	font-size: 10pt;
+	line-height :8pt;
+	overflow: auto;
+}

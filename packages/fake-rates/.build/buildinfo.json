@@ -1,0 +1,43 @@
+{
+  "builtBy": "meteor/10",
+  "sliceDependencies": {
+    "browser.json": {
+      "files": {
+        "/home/richard/Meteor/fake-rates/packages/fake-rates/package.js": "8b54ff60f9a5817ee116965969752861158492b2"
+      },
+      "directories": []
+    },
+    "os.json": {
+      "files": {
+        "/home/richard/Meteor/fake-rates/packages/fake-rates/package.js": "8b54ff60f9a5817ee116965969752861158492b2",
+        "/home/richard/Meteor/fake-rates/packages/fake-rates/prices.js": "919ded74641e665e955c33cf7a9568d4384873eb",
+        "/home/richard/Meteor/fake-rates/packages/fake-rates/fakerates.js": "f96bf318a7089bced0ddac0fdbdfd26e4be32e39"
+      },
+      "directories": []
+    },
+    "tests.browser.json": {
+      "files": {
+        "/home/richard/Meteor/fake-rates/packages/fake-rates/package.js": "8b54ff60f9a5817ee116965969752861158492b2"
+      },
+      "directories": []
+    },
+    "tests.os.json": {
+      "files": {
+        "/home/richard/Meteor/fake-rates/packages/fake-rates/package.js": "8b54ff60f9a5817ee116965969752861158492b2"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/home/richard/Meteor/fake-rates/packages/fake-rates/package.js": "8b54ff60f9a5817ee116965969752861158492b2"
+    },
+    "directories": []
+  },
+  "pluginProviderPackages": {
+    "fake-rates": "/home/richard/Meteor/fake-rates/packages/fake-rates",
+    "meteor": "/home/richard/.meteor/packages/meteor/d06ae22393",
+    "random": "/home/richard/.meteor/packages/random/51ee2fa11e"
+  },
+  "source": "/home/richard/Meteor/fake-rates/packages/fake-rates"
+}

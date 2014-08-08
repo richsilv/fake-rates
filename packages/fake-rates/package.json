@@ -1,0 +1,20 @@
+{
+  "name": "fake-rates",
+  "version": "0.1.2",
+  "description": "Generates fake FX rates for real currency pairs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richsilv/fake-rates"
+  },
+  "keywords": [
+    "fake",
+    "financial",
+    "money",
+    "rates",
+    "fx",
+    "exchange"
+  ],
+  "author": "trevorah",
+  "license": "BSD"
+}

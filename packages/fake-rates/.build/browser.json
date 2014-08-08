@@ -1,0 +1,19 @@
+{
+  "format": "unipackage-slice-pre1",
+  "packageVariables": [],
+  "uses": [
+    {
+      "package": "meteor"
+    }
+  ],
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "browser/packages/fake-rates.js",
+      "length": 0,
+      "offset": 0,
+      "servePath": "/packages/fake-rates.js",
+      "sourceMap": "browser/packages/fake-rates.js.map"
+    }
+  ]
+}
